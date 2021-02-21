@@ -6,4 +6,4 @@ x is for xeran :3
 
 ## Current Layout
 beakl-x1
-<img src="https://raw.gihubusercontent.com/bigteefcat/beakl-x/main/beakl-x1/default-layer.png">
+<img src="https://raw.githubusercontent.com/bigteefcat/beakl-x/main/beakl-x1/default-layer.png">
