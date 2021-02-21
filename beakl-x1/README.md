@@ -1,0 +1,8 @@
+## BEAKLx-1
+* Switches [B] and [X] keys
+* Moves [-/"] below [E]
+* Changes other default layer symbols
+<img src="https://raw.githubusercontent.com/xeran6b6f740a/beaklx-layout/main/images/beakl-x1.png">
+This first layout is a minor tweak of beakl mainly to fit it onto my keyboard and fix the placement of [B] which was particularly annoying to me.
+
+I plan to change up a few things for the next ver.
